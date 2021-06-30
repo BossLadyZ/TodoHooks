@@ -1,0 +1,22 @@
+.todo-row {
+    display: inline-flex;
+    width: 30%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #bfbbf0;
+}
+.todo-text {
+    color: rgb(50, 5, 77);
+    font-weight: bold;
+    margin-right: 75%;
+}
+
+
+.icons {
+    color: blueviolet;
+    margin-right: 2px;
+    
+}

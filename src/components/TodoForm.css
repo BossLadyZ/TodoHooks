@@ -1,0 +1,34 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+
+.todo-input {
+    width: 30%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: honeydew;
+
+}
+
+.todo-input:focus {
+    background-color: rgb(235, 217, 240);
+    outline: none !important;
+}
+
+h1{
+    color:blueviolet;
+}
+
+.add-todo {
+    appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    background-color: rgb(228, 130, 65);
+    border-radius: 5px;
+    padding: 5px;
+    color: honeydew;
+
+}
